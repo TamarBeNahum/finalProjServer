@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tamar\\Desktop\\שנה ג\\פרויקט גמר\\InternView_Git\\InternViewServer\\InternViewServer\\InternViewServer.csproj": {}
+    "C:\\Users\\tamar\\Desktop\\InternViewServer\\InternViewServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tamar\\Desktop\\שנה ג\\פרויקט גמר\\InternView_Git\\InternViewServer\\InternViewServer\\InternViewServer.csproj": {
+    "C:\\Users\\tamar\\Desktop\\InternViewServer\\InternViewServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tamar\\Desktop\\שנה ג\\פרויקט גמר\\InternView_Git\\InternViewServer\\InternViewServer\\InternViewServer.csproj",
+        "projectUniqueName": "C:\\Users\\tamar\\Desktop\\InternViewServer\\InternViewServer.csproj",
         "projectName": "InternViewServer",
-        "projectPath": "C:\\Users\\tamar\\Desktop\\שנה ג\\פרויקט גמר\\InternView_Git\\InternViewServer\\InternViewServer\\InternViewServer.csproj",
+        "projectPath": "C:\\Users\\tamar\\Desktop\\InternViewServer\\InternViewServer.csproj",
         "packagesPath": "C:\\Users\\tamar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tamar\\Desktop\\שנה ג\\פרויקט גמר\\InternView_Git\\InternViewServer\\InternViewServer\\obj\\",
+        "outputPath": "C:\\Users\\tamar\\Desktop\\InternViewServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
